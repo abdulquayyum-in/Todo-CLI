@@ -1,0 +1,28 @@
+[
+  {
+    "email": "quayyum@gmail.com",
+    "username": "abdul quayyum",
+    "location": "hyderabad",
+    "phone": "+918712204003",
+    "todo": [],
+    "password": "$2b$12$BR/xOCWcIVNs7LnDF2Siqu.aw9R78mqzbQajD3rJ95zVtec8wZmEG"
+  },
+  {
+    "email": "quayyum871@gmail.in",
+    "username": "quayyum123",
+    "location": "hyd",
+    "phone": "+918712204003",
+    "todo": [
+      { "todoName": "hello guys", "isCompleted": false, "todo_id": "uUOcUj8J" }
+    ],
+    "password": "$2b$12$5DLTWfoVZwEPSqlJ516imunpGk.rr8QIRGUn78BjQ0o3J/mOG9o0S"
+  },
+  {
+    "email": "q@gmail.com",
+    "username": "quayyummohd871@outlook.in",
+    "location": "hyd",
+    "phone": "+918712204003",
+    "todo": [],
+    "password": "$2b$12$pBi.ESh2WRJGYPuxwmcrH.2Idg5Ev0lloILrolgoL6Up63cB334Zm"
+  }
+]
